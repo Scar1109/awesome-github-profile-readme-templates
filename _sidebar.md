@@ -176,6 +176,7 @@
     - [henrymedeiros](/templates/henrymedeiros.md)
     - [hungpham3112](https://github.com/hungpham3112)
     - [huiishan99](/templates/huiishan99.md)
+    - [Hashan-Samarakkody](/templates/Hashan-Samarakkody.md)
   - I
     - [I-am-vishalmaurya](/templates/I-am-vishalmaurya.md)
     - [iahsanujunda](/templates/iahsanujunda.md)
